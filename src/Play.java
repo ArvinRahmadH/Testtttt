@@ -38,6 +38,7 @@ public class Play {
                     break;
                 default:
                     System.out.println(" inputan anda lebih dari 4");
+                    System.out.println("ahhah");
             }
 
         }while (pilihan!=4);
